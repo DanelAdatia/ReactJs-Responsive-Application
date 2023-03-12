@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Blessed",
+      "content": "Every day I feel is a blessing from God",
+      "author": "Danel Adatia",
+      "date": "2022-03-11",
+      "image": "https://picsum.photos/id/1025/536/354",
+      "likes": 11,
+      "shareCount": 0,
+      "comment": [
+        "Pretty",
+        "amazing"
+      ]
+    },
+    {
+      "title": "Blessed",
+      "content": "Every day I feel is a blessing from God",
+      "author": "Danel Adatia",
+      "date": "2022-03-11",
+      "image": "https://picsum.photos/id/1025/536/354",
+      "likes": 0,
+      "shareCount": 1,
+      "comment": [],
+      "message": "oka",
+      "id": 3
+    },
+    {
+      "title": "waow",
+      "content": "yes",
+      "author": "",
+      "date": "2023-03-12",
+      "image": "https://picsum.photos/id/107/536/354",
+      "likes": 0,
+      "comment": [],
+      "id": 4
+    }
+  ]
+}
