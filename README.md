@@ -1,12 +1,12 @@
 #video:  https://www.youtube.com/watch?v=Pmb2RIIvef4
 
-# ReactJS Tailwind CRUD Application
+# ReactJS Tailwind Application
 
-This is a ReactJS web application that allows users to perform CRUD operations on data stored in a JSON file. The application is built using Tailwind CSS for styling and Font Awesome for icons. The application also uses React Router for navigation and React ChartJS 2 for displaying data analytics.
+This is a ReactJS web application that allows users to perform operations on data stored in a JSON file. The application is built using Tailwind CSS for styling and Font Awesome for icons. The application also uses React Router for navigation and React ChartJS 2 for displaying data analytics.
 
 ## Features
 
-- Create, read, update, and delete data stored in a JSON file
+- Create, read, like, share, comment and delete data stored in a JSON file
 - Fully responsive design using Tailwind CSS
 - Iconography using Font Awesome
 - Navigation using React Router
